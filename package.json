@@ -1,10 +1,10 @@
 {
-  "name": "paper-kit-2-angular",
-  "version": "1.2.0",
+  "name": "free-bible-ministry",
+  "version": "0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/creativetimofficial/pk2-angular.git"
+    "url": "https://github.com/RoseBuhion/fbm.git"
   },
   "scripts": {
     "ng": "ng",
